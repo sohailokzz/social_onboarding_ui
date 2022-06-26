@@ -4,7 +4,8 @@ A new Flutter project. Beautifull onboarding ui for the flutter social app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Social applications.
+![onboarding](https://user-images.githubusercontent.com/59048193/175802371-46484464-95b9-4840-9c60-bbce77cb0d95.png)
 
 A few resources to get you started if this is your first Flutter project:
 

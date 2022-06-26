@@ -1,6 +1,6 @@
-# social_onboarding_ui
+# Social Onboarding Ui
 
-A new Flutter project.
+A new Flutter project. Beautifull onboarding ui for the flutter social app.
 
 ## Getting Started
 
